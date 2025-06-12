@@ -1,4 +1,4 @@
-# Kaiji E-Card Game 🎴
+# cb-hfukuda-e-card-game-20250612 🎴
 
 「カイジ」に登場する【Eカード】をイメージして、プレイヤー（奴隷） vs CPU（皇帝）による心理戦のゲームをPython（PyGame）で完全自作しました！
 
